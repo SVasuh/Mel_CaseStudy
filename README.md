@@ -35,15 +35,15 @@ The project's major motivation is to apply advanced image categorization technol
 - Data Set :
 The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
 
-   - Actinic keratosis
-   - Basal cell carcinoma
-   - Dermatofibroma
-   - Melanoma
-   - Nevus
-   - Pigmented benign keratosis
-   - Seborrheic keratosis
-   - Squamous cell carcinoma
-   - Vascular lesion
+   * Actinic keratosis
+   * Basal cell carcinoma
+   * Dermatofibroma
+   * Melanoma
+   * Nevus
+   * Pigmented benign keratosis
+   * Seborrheic keratosis
+   * Squamous cell carcinoma
+   * Vascular lesion
     
 - Data Visualisation
 Class 	No. of Image
@@ -63,15 +63,15 @@ Class 	No. of Image
 To classify skin cancer based on photographs of lesions and to improve classification accuracy and results, a customized CNN model is created. To overcome the issue of class imbalance, used a python package Augmentor (https://augmentor.readthedocs.io/en/master/) to add more samples across all classes so that none of the classes have very few samples.
 
 Steps Involved:
-    - Data Loading
-    - Baseline Model Building
-    - Training the Model and testing the model
-    - Building an augmented model
-    - Training the augmented model and testing the model
-    - Countering Class Imbalance with augmentor
-    - Building the final model
-    - Training the final model and testing the model
-    - Verifying the model
+    * Data Loading
+    * Baseline Model Building
+    * Training the Model and testing the model
+    * Building an augmented model
+    * Training the augmented model and testing the model
+    * Countering Class Imbalance with augmentor
+    * Building the final model
+    * Training the final model and testing the model
+    * Verifying the model
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
