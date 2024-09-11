@@ -57,7 +57,7 @@ Class 	No. of Image
     7 	squamous cell carcinoma 	181
     8 	vascular lesion 	139
 
-<img width="575" alt="image" src="https://github.com/user-attachments/assets/7f650943-4843-4ac2-b07e-8e39dcd398d6">
+<img width="592" alt="image" src="https://github.com/user-attachments/assets/3dd2b610-38fc-483a-a26b-20afdfd51e3e">
 
 
 - Model Building & Evaluation
@@ -95,7 +95,7 @@ As the accuracy of the model increases, the loss decreases. The final model has 
 - Seaborn - 0.12.2
 - Plotly - 5.9.0
 
-<img width="592" alt="image" src="https://github.com/user-attachments/assets/3dd2b610-38fc-483a-a26b-20afdfd51e3e">
+
 
 
 ## Acknowledgements
