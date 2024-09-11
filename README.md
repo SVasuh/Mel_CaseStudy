@@ -63,6 +63,7 @@ Class 	No. of Image
 To classify skin cancer based on photographs of lesions and to improve classification accuracy and results, a customized CNN model is created. To overcome the issue of class imbalance, used a python package Augmentor (https://augmentor.readthedocs.io/en/master/) to add more samples across all classes so that none of the classes have very few samples.
 
 Steps Involved:
+
     * Data Loading
     * Baseline Model Building
     * Training the Model and testing the model
