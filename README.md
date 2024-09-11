@@ -57,6 +57,8 @@ Class 	No. of Image
     7 	squamous cell carcinoma 	181
     8 	vascular lesion 	139
 
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/7f650943-4843-4ac2-b07e-8e39dcd398d6">
+
 
 - Model Building & Evaluation
 
