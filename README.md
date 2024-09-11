@@ -95,7 +95,8 @@ As the accuracy of the model increases, the loss decreases. The final model has 
 - Seaborn - 0.12.2
 - Plotly - 5.9.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+<img width="592" alt="image" src="https://github.com/user-attachments/assets/3dd2b610-38fc-483a-a26b-20afdfd51e3e">
+
 
 ## Acknowledgements
 
